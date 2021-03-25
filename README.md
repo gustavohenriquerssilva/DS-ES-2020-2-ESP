@@ -2,9 +2,7 @@
   Encontre seu pet
 </h1>
 
-## Projeto
-
-### DS-ES-2020-2-ESP
+### Sobre o projeto
 
 O **Encontre Seu Pet** é um projeto desenvolvido como atividade supervisionada da disciplina Design de Software, ministrada pelo professor [Rubens de Castro Pereira](https://github.com/rubenscp) à turma de Engenharia de Software (2020/2). 
 
@@ -15,5 +13,5 @@ O Encontre Seu Pet se propõe a projetar e implementar um sistema que auxilie na
 
 ## Tecnologias
 
-Esse projeto foi desenvolvido com [Angular](https://angular.io/).
+
 
